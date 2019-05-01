@@ -1,5 +1,6 @@
 # Awesome-Python
-In-Process (Alpha Version)
+
+Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
 
 ## Table of contents
 * [Official Websites](#official-websites)
