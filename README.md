@@ -4,6 +4,7 @@ In-Process (Alpha Version)
 ## Table of contents
 * [Official Websites](#official-websites)
 * [Setup and Configuration](#setup-and-configuration)
+* [IDE](#ide)
 * [Articles](#articles)
 
 
@@ -13,6 +14,12 @@ In-Process (Alpha Version)
 
 ## Setup and Configuration
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
+
+## IDE
+* Visual Studio Code
+    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
+    * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
+
 
 ## Viz
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
