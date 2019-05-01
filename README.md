@@ -7,7 +7,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
 * [Articles](#articles)
-
+* [Libraries](#libraries)
 
 ## Official Websites
 * [Python](https://www.python.org)
@@ -36,3 +36,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
+
+## Libraries
+* [NumPy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code
+useful linear algebra, Fourier transform, and random number capabilities.
