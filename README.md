@@ -38,5 +38,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 
 ## Libraries
+* [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
 * [NumPy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code
 useful linear algebra, Fourier transform, and random number capabilities.
+
