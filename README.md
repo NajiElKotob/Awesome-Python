@@ -11,6 +11,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## Official Websites
 * [Python](https://www.python.org)
+    * [Built-in Types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
 
 
 ## Setup and Configuration
@@ -46,6 +47,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [Pandas](https://pandas.pydata.org/) - Pandas library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 * Visualization
    * [Matplotlib](https://matplotlib.org/index.html) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. 
+      * [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
    * [Seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
    * [Plotly](https://plot.ly/python/) - Plotly's Python graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts.
 * Machine Learning
