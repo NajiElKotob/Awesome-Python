@@ -37,6 +37,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
+* [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
 
 ## Libraries
 * [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
