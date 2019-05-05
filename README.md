@@ -41,7 +41,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ## Libraries
 * [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
 * Core Libraries and Statistics
-   * [NumPy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code
+   * [NumPy](https://www.numpy.org) - NumPy (Numeric Python) is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code
       useful linear algebra, Fourier transform, and random number capabilities.
    * [SciPy](https://scipy.org/scipylib/) - The SciPy library is one of the core packages that make up the SciPy stack. It provides many user-friendly and efficient numerical routines such as routines for numerical integration, interpolation, optimization, linear algebra and statistics.
    * [Pandas](https://pandas.pydata.org/) - Pandas library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
