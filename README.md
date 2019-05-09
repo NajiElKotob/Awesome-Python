@@ -26,8 +26,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
 
 ## Tutorials
-* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html)
-* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp)
+* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
+* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
+* [Data To Fish - Python Tutorials]9https://datatofish.com/python-tutorials) - DataFish.com
 
 
 ## Viz
