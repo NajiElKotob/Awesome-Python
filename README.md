@@ -7,8 +7,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
 * [Tutorials](#tutorials)
-* [Viz](#viz)
 * [Articles](#articles)
+   * [Viz](#viz)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 
@@ -33,9 +33,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
 
 
-## Viz
-* [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
-* [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
+
 
 
 ## Articles
@@ -43,6 +41,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
+
+### Viz
+* [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
+* [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
