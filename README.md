@@ -7,7 +7,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
 * [Articles](#articles)
+* [Datasets](#datasets)
 * [Libraries](#libraries)
+
 
 ## Official Websites
 * [Python](https://www.python.org)
@@ -38,6 +40,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
+
+## Datasets
+* [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
+
 
 ## Libraries
 * [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
