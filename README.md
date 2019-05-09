@@ -62,4 +62,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [TensorFlow](https://www.tensorflow.org/) - The core open source library to help you develop and train ML models. Get started quickly by running Colab notebooks directly in your browser.
   * [PyTorch](https://pytorch.org/) - An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
   * [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+  * [chartify](https://github.com/spotify/chartify) - Chartify is a Python library that makes it easy for data scientists to create charts.
+
 
