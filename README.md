@@ -8,7 +8,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [IDE](#ide)
 * [Tutorials](#tutorials)
 * [Articles and Videos](#articles-and-videos)
-   * [Viz](#viz)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 
@@ -40,12 +39,12 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
-### Videoes
-* [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
-
-### Viz
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
+### Videos
+* [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
+
+
 
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
