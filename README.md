@@ -6,6 +6,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Official Websites](#official-websites)
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
+* [Tutorials](#tutorials)
+* [Viz](#viz)
 * [Articles](#articles)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
