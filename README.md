@@ -30,6 +30,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
 * [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
 * [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
+* [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 
 
 
