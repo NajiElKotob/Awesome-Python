@@ -13,8 +13,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 
 ## Official Websites
-* [Python](https://www.python.org)
-    * [Built-in Types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+* [Python](https://www.python.org) - Official Website
+* [Python Documentation](https://docs.python.org/download.html) - Documentation as PDF
 
 
 ## Setup and Configuration
