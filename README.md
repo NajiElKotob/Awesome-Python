@@ -73,6 +73,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
+   * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
+
+
 
 
 
