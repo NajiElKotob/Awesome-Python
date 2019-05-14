@@ -6,8 +6,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Official Websites](#official-websites)
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
-* [Tutorials](#tutorials)
-* [Articles and Videos](#articles-and-videos)
+* [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 
@@ -21,20 +20,17 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
 
 
+
 ## IDE
 * Visual Studio Code
    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
 
-## Tutorials
-* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
-* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
-* [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
-* [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 
 
 
-## Articles and Videos
+
+## Articles, Videos and Tutorials
 ### Articles
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
@@ -42,12 +38,20 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
-* [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
-
+* [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+* Packaging
+  * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
+  * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
+  
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
 
 
+### Tutorials
+* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
+* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
+* [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
+* [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
