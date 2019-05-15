@@ -18,7 +18,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## Setup and Configuration
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
-
+* [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
 
 
 ## IDE
