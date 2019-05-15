@@ -39,6 +39,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+* Visualization
+  * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
 * Packaging
   * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
   * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
