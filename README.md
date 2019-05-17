@@ -25,6 +25,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * Visual Studio Code
    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
+* [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
+* [IDLE](https://www.pytorials.com/python-download-install-windows/)
 
 
 
