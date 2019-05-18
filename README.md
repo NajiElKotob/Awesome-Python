@@ -15,7 +15,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ## Official Websites
 * [Python](https://www.python.org) - Official Website
 * [Python Documentation](https://docs.python.org/download.html) - Documentation as PDF
-
+* [OpenEDG Python Institute](https://pythoninstitute.org) - The Python Institute is an independent non-profit project set up by the Open Education and Development Group (OpenEDG).
 
 ## Setup and Configuration
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
