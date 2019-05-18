@@ -95,6 +95,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
 ## ML and Algorithms
+* [Machine Learning Recipes (Videos)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * Linear Regression
   * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
   
