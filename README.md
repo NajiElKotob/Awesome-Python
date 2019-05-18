@@ -9,6 +9,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
+* [ML and Algorithms](#ml-and-algorithms)
 
 
 ## Official Websites
@@ -91,7 +92,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
-
+## ML and Algorithms
+* Linear Regression
+  * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+  
 
 
 
