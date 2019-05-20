@@ -64,6 +64,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 * [Data Science & Artificial Intelligence ](https://chrisalbon.com/) - Chris Albon
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
+* [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
+
 
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
