@@ -34,7 +34,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019) - Install Python support in Visual Studio
 * [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
 * [IDLE](https://www.pytorials.com/python-download-install-windows/)
-
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/)
 
 
 
