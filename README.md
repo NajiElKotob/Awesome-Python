@@ -18,6 +18,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [OpenEDG Python Institute](https://pythoninstitute.org) - The Python Institute is an independent non-profit project set up by the Open Education and Development Group (OpenEDG).
 * [PYPL](http://pypl.github.io/PYPL.html) - PYPL PopularitY of Programming Language
 
+
 ## Gropus and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
 
@@ -59,6 +60,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
 
+### Python for Kids
+* [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Every kid should learn to code!  KidsCanCode is producing a series of YouTube coding lessons based on its proven, in-class curriculum - and you can help!
 
 ### Tutorials
 * [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
