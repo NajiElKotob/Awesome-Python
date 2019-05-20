@@ -18,6 +18,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [OpenEDG Python Institute](https://pythoninstitute.org) - The Python Institute is an independent non-profit project set up by the Open Education and Development Group (OpenEDG).
 * [PYPL](http://pypl.github.io/PYPL.html) - PYPL PopularitY of Programming Language
 
+## Gropus and Communities
+* [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
+
 ## Setup and Configuration
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
 * [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
