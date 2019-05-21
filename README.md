@@ -4,6 +4,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## Table of contents
 * [Official Websites](#official-websites)
+* [Gropus and Communities](#gropus-and-communities)
+* [Certificates and Exams](#certificates-and-exams)
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
