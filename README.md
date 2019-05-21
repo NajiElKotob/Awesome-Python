@@ -23,6 +23,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ## Gropus and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
 
+## Certificates and Exams
+* [Introduction to Programming Using Python (98-381)](https://www.microsoft.com/en-us/learning/exam-98-381.aspx) - Microsoft
+* [OpenEDG Python Institute Certifications](https://pythoninstitute.org/certification/)
+
 ## Setup and Configuration
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
 * [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
