@@ -4,7 +4,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## Table of contents
 * [Official Websites](#official-websites)
-* [Gropus and Communities](#gropus-and-communities)
+* [YouTube, Groups and Communities](#youtube-groups-and-communities)
 * [Certificates and Exams](#certificates-and-exams)
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
@@ -22,7 +22,11 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [PEPS](https://www.python.org/dev/peps/)
   * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
-## Gropus and Communities
+## YouTube, Groups and Communities
+### YouTube Channels
+* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/)
+
+### Groups and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
 
 ## Certificates and Exams
