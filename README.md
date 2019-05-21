@@ -28,6 +28,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ### Groups and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
+* [PyCoder's Weekly](https://pycoders.com/) - A free, weekly e-mail newsletter
 
 ## Certificates and Exams
 * [Introduction to Programming Using Python (98-381)](https://www.microsoft.com/en-us/learning/exam-98-381.aspx) - Microsoft
