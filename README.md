@@ -128,6 +128,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## Math and Statistics
 * [Equations and Functions]
+  * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
 * [Derivatives and Optimizations]
 * [Vectors and Matrices]
 * [Statistics and Probability]
