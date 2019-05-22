@@ -68,6 +68,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+* [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
 * SQL Server
   * [How to use Python in SQL Server 2017 to obtain advanced data analytics](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
 * Visualization
@@ -123,6 +124,12 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
+
+## Math and Statistics
+* [Equations and Functions]
+* [Derivatives and Optimizations]
+* [Vectors and Matrices]
+* [Statistics and Probability]
 
 ## ML and Algorithms
 * [Machine Learning Recipes (Videos)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
