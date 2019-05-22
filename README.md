@@ -55,7 +55,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [CPython](https://cython.org/) - C
 * [Jython](https://www.jython.org/) - Java
 * [IronPython](https://ironpython.net/) - C#
-* [PyPy](https://pypy.org/)
+* [PyPy](https://pypy.org/) - RPython
 
 
 
