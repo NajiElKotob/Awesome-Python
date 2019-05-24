@@ -121,11 +121,15 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [TensorFlow](https://www.tensorflow.org/) - The core open source library to help you develop and train ML models. Get started quickly by running Colab notebooks directly in your browser.
   * [PyTorch](https://pytorch.org/) - An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
   * [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+  * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
+  * [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
+
 * Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
+   
 ## Math and Statistics
 * [Equations and Functions]
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
