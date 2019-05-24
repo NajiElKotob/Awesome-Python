@@ -84,6 +84,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ### Python for Kids
 * [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Every kid should learn to code!  KidsCanCode is producing a series of YouTube coding lessons based on its proven, in-class curriculum - and you can help!
+* [Tynker](https://www.tynker.com/k8-school/coding-curriculum?&filter=python) - Learn Python as you play.
 
 ### Tutorials
 * [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
