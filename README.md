@@ -140,6 +140,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ## ML and Algorithms
 * [Machine Learning Recipes (Videos)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [Confusion Matrix](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 * Linear Regression
   * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
   
