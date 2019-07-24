@@ -14,6 +14,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [ML and Algorithms](#ml-and-algorithms)
 * [R vs Python](#r-vs-python)
 
+-----
 ## Official Websites
 * [Python](https://www.python.org) - Official Website
 * [Python Documentation](https://docs.python.org/download.html) - Documentation as PDF
@@ -22,6 +23,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [PEPS](https://www.python.org/dev/peps/)
   * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
+-----
 ## YouTube, Groups and Communities
 ### YouTube Channels
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/)
@@ -30,15 +32,20 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
 * [PyCoder's Weekly](https://pycoders.com/) - A free, weekly e-mail newsletter
 
+-----
 ## Certificates and Exams
 * [Introduction to Programming Using Python (98-381)](https://www.microsoft.com/en-us/learning/exam-98-381.aspx) - Microsoft
 * [OpenEDG Python Institute Certifications](https://pythoninstitute.org/certification/)
 
+-----
 ## Setup and Configuration
-* [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
-* [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
+* Python
+  * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
+* PIP
+  * [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
+  * [How to Upgrade PIP in Windows](https://datatofish.com/upgrade-pip/) - X:\>python -m pip install --upgrade pip
 
-
+-----
 ## IDE
 * Visual Studio Code
    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
@@ -52,14 +59,14 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Atom](https://atom.io/)
 * [Sublime](https://www.sublimetext.com/)
 
+-----
 ## Implementation
 * [CPython](https://cython.org/) - C
 * [Jython](https://www.jython.org/) - Java
 * [IronPython](https://ironpython.net/) - C#
 * [PyPy](https://pypy.org/) - RPython
 
-
-
+-----
 ## Articles, Videos and Tutorials
 ### Articles
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
@@ -95,11 +102,11 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
 
-
+-----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
-
+-----
 ## Libraries
 * [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
 * Core Libraries and Statistics
@@ -130,7 +137,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
-   
+-----   
 ## Math and Statistics
 * [Equations and Functions]
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
@@ -138,13 +145,14 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Vectors and Matrices]
 * [Statistics and Probability]
 
+-----
 ## ML and Algorithms
 * [Machine Learning Recipes (Videos)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Confusion Matrix](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 * Linear Regression
   * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
   
-
+-----
 ## R vs Python
 * [TIOBE Index for R](https://www.tiobe.com/tiobe-index/r/)
 * [TIOBE Index for Python](https://www.tiobe.com/tiobe-index/python/)
