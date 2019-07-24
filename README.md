@@ -41,7 +41,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ## Setup and Configuration
 * Python
   * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python)
-* PIP
+* PIP 
+ > PIP is the standard package manager for Python. It allows you to install and manage additional packages that are not part of the Python standard library. If you’re using Python 3.4 (or greater), then PIP comes installed with Python by default.
   * [How to Install PIP on Windows](https://www.liquidweb.com/kb/install-pip-windows/) 
   * [How to Upgrade PIP in Windows](https://datatofish.com/upgrade-pip/) - X:\>python -m pip install --upgrade pip
 
