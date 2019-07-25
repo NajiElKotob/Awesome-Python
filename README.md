@@ -56,16 +56,18 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019) - Install Python support in Visual Studio
 * [Jupyter](http://try.jupyter.org) - Try Jupyter without installing anything
 * [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
-* [IDLE](https://www.pytorials.com/python-download-install-windows/)
+* [IDLE](https://www.pytorials.com/python-download-install-windows/) - Included in the Python setup
 * [Atom](https://atom.io/)
 * [Sublime](https://www.sublimetext.com/)
 
 -----
 ## Implementation
-* [CPython](https://cython.org/) - C
+* [CPython](https://cython.org/) - CPython is the reference implementation of the Python programming language. Written in C and Python, CPython is the default and most widely-used implementation of the language. 
 * [Jython](https://www.jython.org/) - Java
 * [IronPython](https://ironpython.net/) - C#
 * [PyPy](https://pypy.org/) - RPython
+* [MicroPython](https://micropython.org/) - MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
+* [Stackless](https://stackless.readthedocs.io) - Stackless Python, or Stackless, is a Python programming language interpreter, so named because it avoids depending on the C call stack for its own stack.
 
 -----
 ## Articles, Videos and Tutorials
@@ -102,6 +104,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Data Science & Artificial Intelligence ](https://chrisalbon.com/) - Chris Albon
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
+* [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html) - matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
 
 -----
 ## Datasets
@@ -118,7 +121,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    
 * Visualization
    * [Matplotlib](https://matplotlib.org/index.html) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. 
-   * [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
    * [Seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
    * [Plotly](https://plot.ly/python/) - Plotly's Python graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts.
    * [chartify](https://github.com/spotify/chartify) - Chartify is a Python library that makes it easy for data scientists to create charts.
