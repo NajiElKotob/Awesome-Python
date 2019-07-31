@@ -8,6 +8,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Certificates and Exams](#certificates-and-exams)
 * [Setup and Configuration](#setup-and-configuration)
 * [IDE](#ide)
+* [Implementation](#implementation)
+* [Integration](#integration)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
@@ -69,6 +71,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [PyPy](https://pypy.org/) - RPython
 * [MicroPython](https://micropython.org/) - MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 * [Stackless](https://stackless.readthedocs.io) - Stackless Python, or Stackless, is a Python programming language interpreter, so named because it avoids depending on the C call stack for its own stack.
+
+-----
+## Integration
+* [Run Python scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts) 
 
 -----
 ## Articles, Videos and Tutorials
@@ -136,7 +142,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
   * [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
 
-* Datasets
+* Python Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
