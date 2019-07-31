@@ -74,7 +74,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 -----
 ## Integration
-* [Run Python scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts) 
+* [Create Power BI visuals using Python](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals) 
 
 -----
 ## Articles, Videos and Tutorials
