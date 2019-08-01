@@ -112,6 +112,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
 * [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html) - matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
+* [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
 
 -----
 ## Datasets
