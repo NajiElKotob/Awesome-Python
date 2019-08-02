@@ -23,12 +23,14 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [OpenEDG Python Institute](https://pythoninstitute.org) - The Python Institute is an independent non-profit project set up by the Open Education and Development Group (OpenEDG).
 * [PYPL](http://pypl.github.io/PYPL.html) - PYPL PopularitY of Programming Language
 * [PEPS](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals
-  * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  * [PEP 8  -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  * [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 -----
 ## YouTube, Groups and Communities
-### YouTube Channels
+### YouTube Channels :tv:
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/)
+* [Python Data Structures](https://www.youtube.com/watch?v=R-HLU9Fl5ug&list=PLj8W7XIvO93qsmdxbaDpIvM1KCyNO1K_c) - Joe James
 
 ### Groups and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
