@@ -11,6 +11,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Implementation](#implementation)
 * [Integration](#integration)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
+  * [Tutorials](#tutorials)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 * [ML and Algorithms](#ml-and-algorithms)
