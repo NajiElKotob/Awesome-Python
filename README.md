@@ -22,7 +22,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Documentation](https://docs.python.org/download.html) - Documentation as PDF
 * [OpenEDG Python Institute](https://pythoninstitute.org) - The Python Institute is an independent non-profit project set up by the Open Education and Development Group (OpenEDG).
 * [PYPL](http://pypl.github.io/PYPL.html) - PYPL PopularitY of Programming Language
-* [PEPS](https://www.python.org/dev/peps/)
+* [PEPS](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals
   * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 -----
