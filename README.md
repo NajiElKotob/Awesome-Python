@@ -151,13 +151,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
------   
-## Math and Statistics
-* [Equations and Functions]
-  * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
-* [Derivatives and Optimizations]
-* [Vectors and Matrices]
-* [Statistics and Probability]
 
 -----
 ## ML and Algorithms
