@@ -81,7 +81,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ### Articles
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
-* [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
@@ -104,6 +103,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Tynker](https://www.tynker.com/k8-school/coding-curriculum?&filter=python) - Learn Python as you play.
 
 ### Tutorials
+* [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
 * [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
 * [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
