@@ -77,7 +77,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 -----
 ## Integration
-* [Create Power BI visuals using Python](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals) 
+* [Create Power BI visuals using Python (Power BI)](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals) 
+* [How to use Python in SQL Server 2017 to obtain advanced data analytics (SQL Server)](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
 
 -----
 ## Articles, Videos and Tutorials
@@ -89,14 +90,13 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
 * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
-* SQL Server
-  * [How to use Python in SQL Server 2017 to obtain advanced data analytics](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
 * Packaging
   * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
   * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
   * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
+* [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
   
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
