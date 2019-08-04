@@ -99,7 +99,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
   * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
-  
+* [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
+
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
 
