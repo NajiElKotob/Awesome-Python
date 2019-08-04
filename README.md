@@ -163,10 +163,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   
 -----
 ## R vs Python
+* [R vs Scala vs Python](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0212jm,%2Fm%2F091hdj,%2Fm%2F05z1_) - Google Trend
 * [TIOBE Index for R](https://www.tiobe.com/tiobe-index/r/)
 * [TIOBE Index for Python](https://www.tiobe.com/tiobe-index/python/)
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
-* [R vs Python vs Scala](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0212jm,%2Fm%2F05z1_,%2Fm%2F091hdj) - Google Trend
 * [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R Vs Python: What’s the Difference?](https://www.guru99.com/r-vs-python.html) - R and Python are both open-source programming languages with a large community. New libraries or tools are added continuously to their respective catalog. R is mainly used for statistical analysis while Python provides a more general approach to data science.
 
