@@ -62,6 +62,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
     * [Code Runner Ext.](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
     * [Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)
 * [Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019) - Install Python support in Visual Studio
+* [Spyder](https://www.spyder-ide.org/) - Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. 
 * [Jupyter](http://try.jupyter.org) - Try Jupyter without installing anything
 * [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
 * [IDLE](https://www.pytorials.com/python-download-install-windows/) - Included in the Python setup
