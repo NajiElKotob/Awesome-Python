@@ -97,6 +97,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
+* REPL
+  * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * Packaging
   * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
   * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
@@ -112,7 +114,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Tynker](https://www.tynker.com/k8-school/coding-curriculum?&filter=python) - Learn Python as you play.
 
 ### Tutorials
-* [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
+* [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
+* [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
 * [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
 * [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
 * [Python by Example](http://xahlee.info/python/index.html) - By Xah Lee
