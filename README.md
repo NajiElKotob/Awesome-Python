@@ -113,6 +113,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ### Tutorials
 * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
+* [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
 * [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
 * [Python by Example](http://xahlee.info/python/index.html) - By Xah Lee
 * [Python Tutorials (Tutorials Teacher)](https://www.tutorialsteacher.com/python) - These tutorials are designed for beginners and professionals who want to learn Python programming language.
