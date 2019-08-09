@@ -61,6 +61,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
     * [Code Runner Ext.](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
     * [Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)
+    * [Jupyter Notebooks](https://code.visualstudio.com/docs/python/jupyter-support) - Working with Jupyter Notebooks in Visual Studio Code
 * [Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019) - Install Python support in Visual Studio
 * [Spyder](https://www.spyder-ide.org/) - Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. 
 * [Jupyter](http://try.jupyter.org) - Try Jupyter without installing anything
@@ -132,6 +133,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 -----
 ## Libraries
 * [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
+* IDE
+   * [Jupyter](https://pypi.org/project/jupyter) - Install the Jupyter system, including the notebook, qtconsole, and the IPython kernel.
 * Core Libraries and Statistics
    * [NumPy](https://www.numpy.org) - NumPy (Numeric Python) is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code
       useful linear algebra, Fourier transform, and random number capabilities.
