@@ -189,5 +189,6 @@ Articles
 * [R vs Python: What’s The Difference?](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R Vs Python: What’s the Difference?](https://www.guru99.com/r-vs-python.html) - R and Python are both open-source programming languages with a large community. New libraries or tools are added continuously to their respective catalog. R is mainly used for statistical analysis while Python provides a more general approach to data science.
+* [R versus Python (Data Science Wars)](https://www.datasciencecentral.com/profiles/blogs/data-science-wars-r-versus-python)
 
 
