@@ -86,6 +86,16 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [How to use Python in SQL Server 2017 to obtain advanced data analytics (SQL Server)](https://www.sqlshack.com/how-to-use-python-in-sql-server-2017-to-obtain-advanced-data-analytics/)
 
 -----
+## Python Web Framework
+* [Django](https://www.djangoproject.com/) - Django makes it easier to build better Web apps more quickly and with less code.
+* [Flask](https://www.fullstackpython.com) - Flask is easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
+* [Bottle](https://bottlepy.org)
+* [Pyramid](https://trypyramid.com/)
+
+Articles
+* [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
+
+-----
 ## Articles, Videos and Tutorials
 ### Articles
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
