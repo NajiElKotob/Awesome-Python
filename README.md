@@ -105,6 +105,7 @@ Articles
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
 * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
+* [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
 * REPL
