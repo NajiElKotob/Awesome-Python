@@ -127,6 +127,7 @@ Articles
 
 ### Tutorials
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
+* [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
 * [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
 * [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
 * [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
