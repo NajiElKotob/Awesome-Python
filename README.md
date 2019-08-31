@@ -65,6 +65,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019) - Install Python support in Visual Studio
 * [Spyder](https://www.spyder-ide.org/) - Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. 
 * [Jupyter](http://try.jupyter.org) - Try Jupyter without installing anything
+   * [Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) 
 * [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
 * [IDLE](https://www.pytorials.com/python-download-install-windows/) - Included in the Python setup
 * [Atom](https://atom.io/)
