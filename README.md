@@ -93,9 +93,12 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Bottle](https://bottlepy.org)
 * [Pyramid](https://trypyramid.com/)
 
-Articles
-* [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
+* Benchmarking
+  * [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
 
+* Templating
+  * [Templating in Python](https://wiki.python.org/moin/Templating)
+  
 -----
 ## Articles, Videos and Tutorials
 ### Articles
