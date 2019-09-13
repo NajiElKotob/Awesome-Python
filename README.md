@@ -56,6 +56,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   
 -----
 ## IDE
+* [Top Python IDEs for 2019](https://www.datacamp.com/community/tutorials/top-python-ides-for-2019) - DataCamp
 * Visual Studio Code
    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ)
