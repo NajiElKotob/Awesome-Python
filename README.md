@@ -127,9 +127,11 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
 
-### Python for Kids
+### Python for Kids and fun
 * [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Every kid should learn to code!  KidsCanCode is producing a series of YouTube coding lessons based on its proven, in-class curriculum - and you can help!
 * [Tynker](https://www.tynker.com/k8-school/coding-curriculum?&filter=python) - Learn Python as you play.
+* [micro:bit](https://microbit.org/code/) - Power your imagination with code
+
 
 ### Tutorials
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
@@ -182,7 +184,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
   * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
   * [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
-
+  * [NimbusML](https://docs.microsoft.com/en-us/nimbusml) - NimbusML provides state-of-the-art ML algorithms, transforms and components, aiming to make them useful for all developers, data scientists, and information workers and helpful in all products, services and devices.
+  
 * Python Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
