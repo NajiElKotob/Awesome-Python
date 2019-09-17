@@ -186,6 +186,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
   * [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
   * [NimbusML](https://docs.microsoft.com/en-us/nimbusml) - NimbusML provides state-of-the-art ML algorithms, transforms and components, aiming to make them useful for all developers, data scientists, and information workers and helpful in all products, services and devices.
+    * [ML.NET in Python with NimbusML (Video)](https://www.youtube.com/watch?v=TRtEGNrIwNY) - A Python wrapper of ML.NET that extends scikit-learn package
   
 * Python Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
