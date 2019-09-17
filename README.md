@@ -151,6 +151,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html) - matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
 * [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
 * [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
+* [The Python Gallery](https://python-graph-gallery.com/) - This website displays hundreds of charts, always providing the reproducible python code! 
 * Documentation
   * [Documentation](https://docs.python-guide.org/writing/documentation/) 
   
