@@ -92,6 +92,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ## Python Web Framework
 * [Django](https://www.djangoproject.com/) - Django makes it easier to build better Web apps more quickly and with less code.
 * [Flask](https://www.fullstackpython.com) - Flask is easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
+  * [Python Flask Tutorial (YouTube)](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * [Bottle](https://bottlepy.org)
 * [Pyramid](https://trypyramid.com/)
 
