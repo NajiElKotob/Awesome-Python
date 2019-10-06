@@ -10,6 +10,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [IDE](#ide)
 * [Implementation](#implementation)
 * [Integration](#integration)
+* [Python Web Framework](#Python-Web-Framework)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
   * [Tutorials](#tutorials)
 * [Datasets](#datasets)
