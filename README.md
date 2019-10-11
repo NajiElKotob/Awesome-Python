@@ -192,7 +192,11 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
   * [NimbusML](https://docs.microsoft.com/en-us/nimbusml) - NimbusML provides state-of-the-art ML algorithms, transforms and components, aiming to make them useful for all developers, data scientists, and information workers and helpful in all products, services and devices.
     * [ML.NET in Python with NimbusML (Video)](https://www.youtube.com/watch?v=TRtEGNrIwNY) - A Python wrapper of ML.NET that extends scikit-learn package
-  
+
+* Dashboard
+   * [Dash](https://plot.ly/dash/) - Build beautiful web-based analytic apps with Dash.
+   * [Bokeh](https://bokeh.pydata.org) - Bokeh is an interactive visualization library that targets modern web browsers for presentation.
+   
 * Python Datasets
    * [scikit-learn](https://scikit-learn.org/stable/datasets/) - The sklearn.datasets package embeds some small toy datasets.
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
