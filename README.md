@@ -70,6 +70,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Jupyter](http://try.jupyter.org) - Try Jupyter without installing anything
    * [Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) 
 * [IPython](https://ipython.org/) - IPython provides a rich architecture for interactive computing
+* [Azure Notebook](https://notebooks.azure.com/)
 * [IDLE](https://www.pytorials.com/python-download-install-windows/) - Included in the Python setup
 * [Atom](https://atom.io/)
 * [Sublime](https://www.sublimetext.com/)
