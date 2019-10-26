@@ -99,10 +99,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [How to build a web application using Flask and deploy it to the cloud](https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/)
 * [Bottle](https://bottlepy.org)
 * [Pyramid](https://trypyramid.com/)
-
 * Benchmarking
   * [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
-
 * Templating
   * [Templating in Python](https://wiki.python.org/moin/Templating)
   
@@ -117,6 +115,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
 * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
 * [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
+* Data Cleansing 
+    * [Data Cleaning with Python and Pandas: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
 * REPL
