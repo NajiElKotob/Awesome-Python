@@ -120,6 +120,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
     * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
+  * [Data Visualization with Seaborn](https://jovianlin.io/data-visualization-seaborn-part-1/) - Jovian Lin
 * REPL
   * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * Packaging
