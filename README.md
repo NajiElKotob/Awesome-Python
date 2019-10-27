@@ -110,26 +110,27 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
-* [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
-* [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
-* [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
-* [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
+* Core
+  * [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
+  * [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
+  * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/) - Artem Golubin 
+  * [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
+  * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
+* REPL
+  * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * Data Cleansing and Modeling
     * [Data Cleaning with Python and Pandas: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
     * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
 * Visualization
   * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
   * [Data Visualization with Seaborn](https://jovianlin.io/data-visualization-seaborn-part-1/) - Jovian Lin
-* REPL
-  * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
+  * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
+  * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * Packaging
   * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
   * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
   * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
-* [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
-* [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
-* [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/) - Artem Golubin
 * Dashboard
   * [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://www.sicara.ai/blog/2018-01-30-bokeh-dash-best-dashboard-framework-python)
   
