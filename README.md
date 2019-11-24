@@ -146,6 +146,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ### Tutorials
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
+* [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
 * [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
 * [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
 * [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
