@@ -202,6 +202,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 * Dashboard
    * [Dash](https://plot.ly/dash/) - Build beautiful web-based analytic apps with Dash.
+     * [Build an Interactive, Modern Dashboard With Dash](https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515) - Medium
    * [Bokeh](https://bokeh.pydata.org) - Bokeh is an interactive visualization library that targets modern web browsers for presentation.
    
 * Python Datasets
