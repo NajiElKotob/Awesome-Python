@@ -146,6 +146,18 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 
 ### Tutorials
+
+#### Data
+* [Why Is Data Literacy Important For Any Business?](https://www.bernardmarr.com/default.asp?contentID=1935) - Bernard Marr
+
+#### Data Types 
+* [Basic Data Types](https://trinachi.github.io/data-design-builds/ch01.html) - Michael Castello
+* [Data Types in Statistics](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) - Niklas Donges
+
+#### Statistics
+* [What Are Variables?](https://stattrek.com/descriptive-statistics/variables.aspx?Tutorial=AP) - stattrek.com
+
+#### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
 * [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
