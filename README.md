@@ -156,6 +156,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 #### Statistics
 * [What Are Variables?](https://stattrek.com/descriptive-statistics/variables.aspx?Tutorial=AP) - stattrek.com
+* [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 
 #### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
