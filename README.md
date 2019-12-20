@@ -158,6 +158,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [What Are Variables?](https://stattrek.com/descriptive-statistics/variables.aspx?Tutorial=AP) - stattrek.com
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 
+#### EDA
+* [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
+
 #### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
