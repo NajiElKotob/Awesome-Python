@@ -12,7 +12,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Integration](#integration)
 * [Python Web Framework](#Python-Web-Framework)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
-  * [Tutorials](#tutorials) :star:
+  * [Tutorials](#tutorials-star) :star:
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 * [ML and Algorithms](#ml-and-algorithms)
