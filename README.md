@@ -111,29 +111,14 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
-* [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
-* Core
-  * [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
-  * [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
-  * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/) - Artem Golubin 
-  * [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
-  * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
-* REPL
-  * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
-* Data Cleansing and Modeling
-    * [Data Cleaning with Python and Pandas: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
-    * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
-* Visualization
-  * [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
-  * [Data Visualization with Seaborn](https://jovianlin.io/data-visualization-seaborn-part-1/) - Jovian Lin
-  * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
-  * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
-* Packaging
-  * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
-  * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
-  * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
-* Dashboard
-  * [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://www.sicara.ai/blog/2018-01-30-bokeh-dash-best-dashboard-framework-python)
+
+
+
+  
+
+
+  
+
   
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
@@ -159,10 +144,21 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 #### Statistics
 * [What Are Variables?](https://stattrek.com/descriptive-statistics/variables.aspx?Tutorial=AP) - stattrek.com
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
+* [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
+* [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
 
 #### EDA
+* [Python Exploratory Data Analysis Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - DataCamp
 * [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
 
+#### Core
+* [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
+* [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
+* [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
+* [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/) - Artem Golubin 
+* [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
+* [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
+  
 #### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
@@ -176,24 +172,42 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
 * [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
 * [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
-* [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 * [Data Science & Artificial Intelligence ](https://chrisalbon.com/) - Chris Albon
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
-* [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html) - matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
-* [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
 * [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
-* [The Python Gallery](https://python-graph-gallery.com/) - This website displays hundreds of charts, always providing the reproducible python code! 
-* Documentation
-  * [Documentation](https://docs.python-guide.org/writing/documentation/) 
+
+#### Data Cleansing and Modeling
+* [Data Cleaning with Python and Pandas: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
+* [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
+* [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
+* [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+
+#### Visualization
+* [The Python Gallery](https://python-graph-gallery.com/) - This website displays hundreds of charts, always providing the reproducible python code!
+* [Pyplot tutorial](https://matplotlib.org/users/pyplot_tutorial.html) - matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
+* [Visualization with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html) - Python Data Science Handbook by Jake VanderPlas
+* [Data Visualization with Seaborn](https://jovianlin.io/data-visualization-seaborn-part-1/) - Jovian Lin
+* [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
+* [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
+
+#### Dashboard
+* [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://www.sicara.ai/blog/2018-01-30-bokeh-dash-best-dashboard-framework-python)
   
+#### Documentation
+* [Documentation](https://docs.python-guide.org/writing/documentation/) 
+
+#### Packaging
+* [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
+* [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
+
 -----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 -----
 ## Libraries
-* [Trending Python 3 Projects](http://bit.ly/TrendingPython3)
+* [Trending Python Projects](https://pypi.org/search/?q=&o=-zscore&c=Programming+Language+%3A%3A+Python)
 * IDE
    * [Jupyter](https://pypi.org/project/jupyter) - Install the Jupyter system, including the notebook, qtconsole, and the IPython kernel.
 * Core Libraries and Statistics
