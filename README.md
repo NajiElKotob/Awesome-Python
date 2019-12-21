@@ -12,7 +12,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Integration](#integration)
 * [Python Web Framework](#Python-Web-Framework)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
-  * [Tutorials](#tutorials)
+  * [Tutorials :star:](#tutorials)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 * [ML and Algorithms](#ml-and-algorithms)
@@ -145,11 +145,12 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [micro:bit](https://microbit.org/code/) - Power your imagination with code
 
 
-### Tutorials
+### Tutorials :star:
 
 #### Data
 * [Why Is Data Literacy Important For Any Business?](https://www.bernardmarr.com/default.asp?contentID=1935) - Bernard Marr
 * [It's Time to Stop Being “Data-Driven” (And Start Being Data-Informed)](https://www.interana.com/blog/data-driven-vs-data-informed) - Interana Blog Staff
+  * "data is never going to tell you the full story"
 
 #### Data Types 
 * [Basic Data Types](https://trinachi.github.io/data-design-builds/ch01.html) - Michael Castello
