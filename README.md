@@ -111,7 +111,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Future of Python in the industry](https://www.newgenapps.com/blog/future-of-python-in-the-industry)
 * [Top 10 Python libraries of 2018](https://tryolabs.com/blog/2018/12/28/top-10-python-libraries-2018/)
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
-
+* [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Avik Jain :star:
 
 
   
