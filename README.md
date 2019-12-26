@@ -136,6 +136,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Why Is Data Literacy Important For Any Business?](https://www.bernardmarr.com/default.asp?contentID=1935) - Bernard Marr
 * [It's Time to Stop Being “Data-Driven” (And Start Being Data-Informed)](https://www.interana.com/blog/data-driven-vs-data-informed) - Interana Blog Staff
   * "data is never going to tell you the full story"
+* [9 Common Mistakes That Lead To Data Bias](https://medium.com/@ODSC/9-common-mistakes-that-lead-to-data-bias-a121580c7d1f)
 
 #### Data Types 
 * [Basic Data Types](https://trinachi.github.io/data-design-builds/ch01.html) - Michael Castello
