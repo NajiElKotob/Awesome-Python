@@ -146,10 +146,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 * [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
 
-#### EDA
-* [Python Exploratory Data Analysis Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - DataCamp
-* [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
-
 #### Core
 * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
@@ -158,6 +154,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
 * [Tricky Python I : Memory Management for Mutable & Immutable Objects](https://medium.com/@tyastropheus/tricky-python-i-memory-management-for-mutable-immutable-objects-21507d1e5b95) - Tanya Kryukova
   
+#### EDA
+* [Python Exploratory Data Analysis Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - DataCamp
+* [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
+
 #### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
