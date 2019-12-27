@@ -113,12 +113,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Everything I know about Python...](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) - Jeff Knupp
 * [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Avik Jain :star:
 
-
-  
-
-
-  
-
   
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
@@ -131,6 +125,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 
 ### Tutorials :star:
+
+#### Data Life Cycle
+* [How data and analytics can add more value to your business](https://www.pwc.com/ca/en/services/consulting/business-analytics.html.html) - PwC 
+* [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
 
 #### Data
 * [Why Is Data Literacy Important For Any Business?](https://www.bernardmarr.com/default.asp?contentID=1935) - Bernard Marr
