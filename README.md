@@ -145,6 +145,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 * [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University (Lead Developer), University of Houston Clear Lake, and Tufts University
 * [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663-2017) - Cliburn Chan and Janice McCarthy
+* [Electronic Statistics Textbook](http://www.statsoft.com/Textbook) - StatSoft :star:
 
 #### Core
 * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
