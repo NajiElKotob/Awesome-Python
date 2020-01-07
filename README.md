@@ -150,6 +150,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 #### Core
 * [What is a REPL?](https://codewith.mu/en/tutorials/1.0/repl)
 * [Embracing the Four Python Programming Styles](https://blog.newrelic.com/engineering/python-programming-styles/) - By John Paul Mueller (Aug. 2018)
+* [Code Style](https://docs.python-guide.org/writing/style/) - python-guide.org
 * [Understanding the underscore( _ ) of Python](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/) - Artem Golubin 
 * [Python: Mutable vs Immutable](https://medium.com/@Cu7ious/python-mutable-vs-immutable-ae9a188effe3)
