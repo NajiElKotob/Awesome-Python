@@ -193,6 +193,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Data Visualization with Seaborn](https://jovianlin.io/data-visualization-seaborn-part-1/) - Jovian Lin
 * [The Interesting Python Graphics Libraries for Python Programmers](https://www.tutorialdocs.com/article/best-python-graphics-libraries.html)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
+* [Top 10 Types of Data Visualization](https://www.boostlabs.com/10-types-of-data-visualization-tools/) - 
 
 #### Dashboard
 * [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://www.sicara.ai/blog/2018-01-30-bokeh-dash-best-dashboard-framework-python)
