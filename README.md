@@ -139,6 +139,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 #### Data Types 
 * [Basic Data Types](https://trinachi.github.io/data-design-builds/ch01.html) - Michael Castello
 * [Data Types in Statistics](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) - Niklas Donges
+* [Interval scale vs Ratio scale ](https://www.questionpro.com/blog/ratio-scale-vs-interval-scale/) 
 
 #### Statistics
 * [What Are Variables?](https://stattrek.com/descriptive-statistics/variables.aspx?Tutorial=AP) - stattrek.com
