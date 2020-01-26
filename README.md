@@ -164,9 +164,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Exploratory Data Analysis Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - DataCamp
 * [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
 
+
 #### Python
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
-* [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
 * [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
 * [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
 * [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
@@ -183,11 +183,16 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
 * [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
 
+
 #### Data Cleansing and Modeling
 * [Data Cleaning with Python and Pandas: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
 * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+
+#### Essential features
+* [Understanding the asterisk * of Python](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558) 
+* [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
 
 #### Visualization
 * [The Python Gallery](https://python-graph-gallery.com/) - This website displays hundreds of charts, always providing the reproducible python code!
