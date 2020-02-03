@@ -163,6 +163,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 #### EDA
 * [Python Exploratory Data Analysis Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - DataCamp
 * [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
+* [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625) - Lukas Frei (April 2019)
 
 
 #### Python
