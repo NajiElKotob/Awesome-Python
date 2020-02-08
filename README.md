@@ -126,17 +126,17 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ### Tutorials :star:
 
-#### Data Life Cycle
-* [How data and analytics can add more value to your business](https://www.pwc.com/ca/en/services/consulting/business-analytics.html.html) - PwC 
-* [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
-
-
-#### Data
+#### Let's Talk Data
 * [Why Is Data Literacy Important For Any Business?](https://www.bernardmarr.com/default.asp?contentID=1935) - Bernard Marr
 * [It's Time to Stop Being “Data-Driven” (And Start Being Data-Informed)](https://www.interana.com/blog/data-driven-vs-data-informed) - Interana Blog Staff
   * "data is never going to tell you the full story"
 * [9 Common Mistakes That Lead To Data Bias](https://medium.com/@ODSC/9-common-mistakes-that-lead-to-data-bias-a121580c7d1f)
-* [Hindsight, Insight and Foresight](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/)
+
+#### Data Life Cycle
+* [How data and analytics can add more value to your business](https://www.pwc.com/ca/en/services/consulting/business-analytics.html.html) - PwC 
+* [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
+* [Hindsight, Insight and Foresight](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/) - Gartner
+* [From Hindsight to Insight to Foresight (Whitepaper)](https://www.vertica.com/wp-content/uploads/2017/01/Hindsight_Insight_Foresight-Whitepaper.pdf) - Vertica
 
 #### Data Types 
 * [Basic Data Types](https://trinachi.github.io/data-design-builds/ch01.html) - Michael Castello
