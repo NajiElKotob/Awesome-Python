@@ -171,6 +171,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
 * [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
 * [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
+* [Cognitive Class (IBM)](https://cognitiveclass.ai/courses/python-for-data-science) 
 * [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
 * [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
 * [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
