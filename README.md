@@ -131,6 +131,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [It's Time to Stop Being “Data-Driven” (And Start Being Data-Informed)](https://www.interana.com/blog/data-driven-vs-data-informed) - Interana Blog Staff
   * "data is never going to tell you the full story"
 * [9 Common Mistakes That Lead To Data Bias](https://medium.com/@ODSC/9-common-mistakes-that-lead-to-data-bias-a121580c7d1f)
+* [Biased and unbiased data and why they matter (IBM)](https://www.ibm.com/blogs/business-analytics/biased-unbiased-data-matter/)
 
 #### Data Life Cycle
 * [How data and analytics can add more value to your business](https://www.pwc.com/ca/en/services/consulting/business-analytics.html.html) - PwC 
