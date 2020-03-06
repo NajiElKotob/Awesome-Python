@@ -185,6 +185,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
 * [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
 * [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
+* [Python Tutorials (GitHub)](https://github.com/Pitsillides91/Python-Tutorials) - Yiannis Pitsillides
 
 #### Essential features
 * [Understanding the asterisk * of Python](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558) 
