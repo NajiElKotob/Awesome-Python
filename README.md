@@ -169,7 +169,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 #### Python
 * Microsoft Developer (YouTube)
-   * [Python for Beginners (44+ Videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+   * [Python for Beginners (44+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+   * [More Python for Beginners (20+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
 * [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
 * [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
