@@ -120,6 +120,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 ### Videos
 * [Top 10 Websites Using Python](https://www.youtube.com/watch?v=pAs3AF8jN78) - Chris Hawkes
 * [Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
+* [Python Tutorial - Python for Beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8&feature=youtu.be) - Programming with Mosh 
 
 ### Python for Kids and fun
 * [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Every kid should learn to code!  KidsCanCode is producing a series of YouTube coding lessons based on its proven, in-class curriculum - and you can help!
