@@ -34,11 +34,11 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/)
 * [Python Data Structures](https://www.youtube.com/watch?v=R-HLU9Fl5ug&list=PLj8W7XIvO93qsmdxbaDpIvM1KCyNO1K_c) - Joe James
 * [PyData](https://www.youtube.com/user/PyDataTV) - PyData is an educational program of NumFOCUS
+* [Python for Beginners (Full Course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming with Mosh
+
 
 ### Groups and Communities
-* [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
-* [PyCoder's Weekly](https://pycoders.com/) - A free, weekly e-mail newsletter
-
+* [Python 
 ### Surveys
 * [Python Developers Survey 2019 Results](https://www.jetbrains.com/lp/python-developers-survey-2019/)
 
