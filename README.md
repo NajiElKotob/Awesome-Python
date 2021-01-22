@@ -13,6 +13,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Web Framework](#Python-Web-Framework)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
   * [Tutorials](#tutorials-star) :star:
+* [Learning](#learning)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 * [ML and Algorithms](#ml-and-algorithms)
@@ -172,31 +173,6 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Analyzing the Food Culture of Bangalore](https://www.marktechpost.com/2019/07/13/exploratory-data-analysis-tutorial-analyzing-the-food-culture-of-bangalore/) - Niranjan Kumar
 * [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625) - Lukas Frei (April 2019)
 
-
-#### Python
-* Microsoft Developer (YouTube)
-   * [Python for Beginners (44+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-   * [More Python for Beginners (20+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
-   * [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
-* [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
-* [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
-* [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
-* [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
-* [Cognitive Class (IBM)](https://cognitiveclass.ai/courses/python-for-data-science) 
-* [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
-* [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
-* [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
-* [Python by Example](http://xahlee.info/python/index.html) - By Xah Lee
-* [Python Tutorials (Tutorials Teacher)](https://www.tutorialsteacher.com/python) - These tutorials are designed for beginners and professionals who want to learn Python programming language.
-* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
-* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
-* [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
-* [Data Science & Artificial Intelligence ](https://chrisalbon.com/) - Chris Albon
-* [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
-* [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
-* [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
-* [Python Tutorials (GitHub)](https://github.com/Pitsillides91/Python-Tutorials) - Yiannis Pitsillides
-
 #### Essential features
 * [Understanding the asterisk * of Python](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558) 
 * [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/#The_5_debugging_functions) - Trey Hunner
@@ -227,6 +203,34 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [How to create a Python Package with init.py](https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html)
 * [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
 
+-----
+
+## Learning
+* Microsoft Developer (YouTube)
+   * [Python for Beginners (44+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+   * [More Python for Beginners (20+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
+   * [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
+* [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
+* [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
+* [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
+* [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
+* [Cognitive Class (IBM)](https://cognitiveclass.ai/courses/python-for-data-science) 
+* [Google's Python Class](https://developers.google.com/edu/python/) - Google's Python Class
+* [Learn Python](https://thispointer.com/learn-python/) - thispointer.com
+* [learnPython](http://www.stephaniehicks.com/learnPython/) - Essentials of Python by Stephanie Hicks
+* [Python by Example](http://xahlee.info/python/index.html) - By Xah Lee
+* [Python Tutorials (Tutorials Teacher)](https://www.tutorialsteacher.com/python) - These tutorials are designed for beginners and professionals who want to learn Python programming language.
+* [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) - Python.org
+* [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp) - W3Schools.com
+* [Data To Fish - Python Tutorials](https://datatofish.com/python-tutorials) - DataFish.com
+* [Data Science & Artificial Intelligence ](https://chrisalbon.com/) - Chris Albon
+* [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - geeksforgeeks.org 
+* [Programiz](https://www.programiz.com/python-programming/first-program) - programiz.com
+* [Making a Stand Alone Executable from a Python Script using PyInstaller](https://wasi0013.com/2017/10/03/making-a-stand-alone-executable-from-a-python-script-using-pyinstaller/)
+* [Python Tutorials (GitHub)](https://github.com/Pitsillides91/Python-Tutorials) - Yiannis Pitsillides
+* scikit-learn
+  * [Scikit-learn course](https://inria.github.io/scikit-learn-mooc/) - inria.github.io/scikit-learn-mooc
+  
 -----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
