@@ -67,6 +67,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Top Python IDEs for 2019](https://www.datacamp.com/community/tutorials/top-python-ides-for-2019) - DataCamp
 * Visual Studio Code
    * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
+    * [Python in Visual Studio Code (January 2021 Release)](https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/) - 
     * [Getting Started with Python in Visual Studio Code (Video)](https://www.youtube.com/watch?v=XIUkjY8wwAQ) - James Q Quick (March 2019)
     * [Getting Started with Python in Visual Studio Code (Video)](https://youtu.be/7EXd4_ttIuw?t=123) - Dec 2019 (Microsoft)
     * [Code Runner Ext.](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
