@@ -111,7 +111,10 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
   * [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
 * Templating
   * [Templating in Python](https://wiki.python.org/moin/Templating)
-  
+
+### Hosting
+* [Heroku](https://www.heroku.com/python) - Cloud platform for building Pythonic apps and APIs
+
 -----
 ## Articles, Videos and Tutorials
 ### Articles
