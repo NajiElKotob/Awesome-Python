@@ -116,6 +116,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Heroku](https://www.heroku.com/python) - Cloud platform for building Pythonic apps and APIs
 * [PythonAnywhere](https://www.pythonanywhere.com/) - Host, run, and code Python in the cloud!
 
+### Docker
+* [Docker for data scientists — Part 1](https://towardsdatascience.com/docker-for-data-scientists-part-1-41b0725d4a50) - Adam Sroka (December 2020)
+
 
 -----
 ## Articles, Videos and Tutorials
