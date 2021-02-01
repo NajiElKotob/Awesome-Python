@@ -114,6 +114,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 ### Hosting
 * [Heroku](https://www.heroku.com/python) - Cloud platform for building Pythonic apps and APIs
+* [PythonAnywhere](https://www.pythonanywhere.com/) - Host, run, and code Python in the cloud!
+
 
 -----
 ## Articles, Videos and Tutorials
