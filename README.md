@@ -285,6 +285,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 * Apps
    * [Streamlit](https://pypi.org/project/streamlit/)
+     * [Build 12 Data Science Apps with Python and Streamlit (Full Course, ~3 hours)](https://www.youtube.com/watch?v=JwSS70SZdyM&feature=youtu.be)
    
 -----
 ## ML and Algorithms
