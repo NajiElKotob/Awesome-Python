@@ -283,7 +283,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [PyDataset](https://github.com/iamaziz/PyDataset) - Provides instant access to many datasets right from Python (in pandas DataFrame structure).
    * [gapminder](https://pypi.org/project/gapminder/) - A Python version of Jennifer Bryan's excellent gapminder teaching package for R.
 
-
+* Apps
+   * [Streamlit](https://pypi.org/project/streamlit/)
+   
 -----
 ## ML and Algorithms
 * [Awesome ML](https://github.com/NajiElKotob/Awesome-ML) - Awesome ML Resources and References
