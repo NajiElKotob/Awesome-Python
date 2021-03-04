@@ -239,7 +239,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Tutorials (GitHub)](https://github.com/Pitsillides91/Python-Tutorials) - Yiannis Pitsillides
 * scikit-learn
   * [Scikit-learn course](https://inria.github.io/scikit-learn-mooc/) - inria.github.io/scikit-learn-mooc
-  
+* [Python - 10 Apps from Scratch](https://www.youtube.com/playlist?list=PL3Q83485j_tWJK6suRVzo_7nDSaTddZfa) - Michael Crump
+
+
 -----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
