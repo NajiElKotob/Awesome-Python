@@ -192,6 +192,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40) - Rowan Langford
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) - Shane Lynn
+* [Pandas Tutorials](https://www.w3resource.com/pandas/index.php) - w3resource.com
+
 
 #### Visualization
 * [The Python Gallery](https://python-graph-gallery.com/) - This website displays hundreds of charts, always providing the reproducible python code!
