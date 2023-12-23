@@ -220,9 +220,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 -----
 
-## Learning
+## Learning ⭐
 * Microsoft Developer (YouTube)
-   * [Python for Beginners (44+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+   * [Python for Beginners (44+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) + [Learning Path](https://aka.ms/MSLearnPython)
    * [More Python for Beginners (20+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
    * [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
