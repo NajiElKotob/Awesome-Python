@@ -17,7 +17,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Web Framework](#Python-Web-Framework)
 * [Articles, Videos and Tutorials](#articles-videos-and-tutorials)
   * [Tutorials](#tutorials-star) :star:
-* [Learning](#learning)
+* [Learning](#learning-)
 * [Datasets](#datasets)
 * [Libraries](#libraries)
 * [ML and Algorithms](#ml-and-algorithms)
