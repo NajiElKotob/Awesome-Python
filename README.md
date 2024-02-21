@@ -51,6 +51,7 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 
 -----
 ## Certificates and Exams
+* [Python for Data Science (IBM)](https://cognitiveclass.ai/courses/python-for-data-science) - cognitiveclass.ai
 * [Introduction to Programming Using Python (98-381)](https://www.microsoft.com/en-us/learning/exam-98-381.aspx) - Microsoft
 * [OpenEDG Python Institute Certifications](https://pythoninstitute.org/certification/)
 
