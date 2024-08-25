@@ -40,7 +40,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * [Python Data Structures](https://www.youtube.com/watch?v=R-HLU9Fl5ug&list=PLj8W7XIvO93qsmdxbaDpIvM1KCyNO1K_c) - Joe James
 * [PyData](https://www.youtube.com/user/PyDataTV) - PyData is an educational program of NumFOCUS
 * [Python for Beginners (Full Course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming with Mosh
-
+* Visual Studio Code
+  - [Mastering your data with Data Wrangler in VS Code](https://www.youtube.com/watch?v=5tWJVLF6PuA) 
 
 ### Groups and Communities
 * [Python Community](https://www.linkedin.com/groups/25827/) - LinkedIn Group
