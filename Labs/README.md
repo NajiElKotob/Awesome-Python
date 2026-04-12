@@ -8,3 +8,10 @@
 ## Google Colab
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
+## Check version
+* python --version
+* python3 --version
+
+## Where is it located
+where python
+where python3
