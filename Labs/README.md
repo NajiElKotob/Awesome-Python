@@ -19,3 +19,7 @@
 ## Shows all installed versions
 * py --list 
 * default marked with *
+
+
+## Check packages installed 
+* python -m pip list
