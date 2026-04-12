@@ -15,3 +15,6 @@
 ## Where is it located
 where python
 where python3
+
+## shows all installed versions
+py --list 
