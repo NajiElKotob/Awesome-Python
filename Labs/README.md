@@ -23,3 +23,9 @@
 
 ## Check packages installed 
 * python -m pip list
+
+## Environment
+* Navigate to your project folder e.g., cd C:\Users\najielkotob\my-project
+* Create the environment: python -m venv .venv
+* Activate it: .venv\Scripts\activate
+* Deactivate it: .venv\Scripts\deactivate  
