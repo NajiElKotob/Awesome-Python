@@ -228,7 +228,9 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
    * [More Python for Beginners (20+ videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
    * [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
 * [Python (Microsoft)](https://devblogs.microsoft.com/python/) - Read the latest updates about all things Python at Microsoft
-* [Python Tutorial (SoloLearn)](https://www.sololearn.com/Play/Python) - soloLearn.com
+* SoloLearn
+  - [Introduction to Python](https://www.sololearn.com/en/learn/courses/python-introduction)
+  - [Python Intermediate](https://www.sololearn.com/en/learn/courses/python-intermediate)
 * [w3resources](https://www.w3resource.com/python-exercises/) - Python Exercises, Practice, Solution
 * [Python Essentials](https://www.netacad.com/portal/web/self-enroll/c/course-890888) - OpenEDG | Open Education and Development Group :star:
 * [Cognitive Class (IBM)](https://cognitiveclass.ai/courses/python-for-data-science) 
