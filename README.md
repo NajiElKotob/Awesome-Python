@@ -299,7 +299,8 @@ Python's simple, easy to learn syntax emphasizes readability and therefore reduc
 * Apps
    * [Streamlit](https://pypi.org/project/streamlit/)
      * [Build 12 Data Science Apps with Python and Streamlit (Full Course, ~3 hours)](https://www.youtube.com/watch?v=JwSS70SZdyM&feature=youtu.be)
-   
+* AI
+  - [MarkItDown](https://github.com/microsoft/markitdown) - Microsoft
 -----
 ## ML and Algorithms
 * [Awesome ML](https://github.com/NajiElKotob/Awesome-ML) - Awesome ML Resources and References
